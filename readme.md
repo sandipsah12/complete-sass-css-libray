@@ -4,7 +4,7 @@
 
 This is a code along project for youtube tutorial on Sass.
 
-In this series of tutorials learn about Sass and build a mini CSS Library with
+In this series of tutorials we learn about Sass and build a mini CSS Library with
 Sass.
 
 ## Source
